@@ -5,4 +5,14 @@ ZCZC W00 120 L01 ZOOM related
 ZCZC W00  15 L02 SCELE related
 ZCZC W00  30 L03 create a github account and log
 ZCZC W00  60 L04 SCELE related
-ZCZC W00  60 L05 GSGS related 
+ZCZC W00  60 L05 GSGS related
+
+ZCZC W01 120 L06 ZOOM Related
+ZCZC W01 130 L07 Assignment #1: create or import debian virtual guest (till success)
+ZCZC W01  90 L08 Assignment #2: log into the guest and learn
+ZCZC W01  10 L09 Assignment #3: create a new user acc
+ZCZC W01 120 L10 Assignment #4: create a tunnel (till success)
+ZCZC W01  60 L11 Assignment #5: copy folder rsync
+ZCZC W01  15 L12 Assignment #6: git pull 'os202'
+ZCZC W01  15 L13 Assignment #7: update and push back mylog.txt
+ZCZC W01 120 L14 Assignment #8: create two files w00.md and w01.md 
