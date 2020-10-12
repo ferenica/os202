@@ -15,4 +15,7 @@ ZCZC W01 120 L10 Assignment #4: create a tunnel (till success)
 ZCZC W01  60 L11 Assignment #5: copy folder rsync
 ZCZC W01  15 L12 Assignment #6: git pull 'os202'
 ZCZC W01  15 L13 Assignment #7: update and push back mylog.txt
-ZCZC W01 120 L14 Assignment #8: create two files w00.md and w01.md 
+ZCZC W01 120 L14 Assignment #8: create two files w00.md and w01.md
+
+ZCZC W03  60 L99 Assignment #5: create top 10 list of week 3
+ 
