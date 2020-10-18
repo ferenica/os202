@@ -26,5 +26,12 @@ ZCZC W02  30 L17 Assignment #7: write a simple and useful bash script
 ZCZC W02  30 L18 Assignment #8: update mylog.txt
 ZCZC W02  10 L19 Assignment #9: make SHA256SUM and sign in (detached, armor) as SHA256SUM.asc 
 
-ZCZC W03  60 L99 Assignment #5: create top 10 list of week 3
- 
+ZCZC W03 120 L06 ZOOM Related
+ZCZC W03 100 L07 Assignment #1: read OSC10 chapter 13, 14, and 15
+ZCZC W03  10 L09 Assignment #3: bash_aliases is already up to date
+ZCZC W03 120 L11 Assignment #5: create top 10 list of week 03 
+ZCZC W03  15 L12 Assignment #6: run chktoken os202 and write the result into myW03token.txt
+ZCZC W03  20 L13 Assignment #7: download TLPI code and write the "disk usage"
+ZCZC W03  30 L14 Assignment #8: update mylog.txt
+ZCZC W03   5 L15 Assignment #9: bash sricpt is already up to date
+ZCZC W03  10 L16 Assignment #10: Make SHA256SUM and sign it
