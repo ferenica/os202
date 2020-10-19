@@ -39,9 +39,13 @@ ZCZC W03  15 L09 Asdos: Asking, etc
 
 ZCZC W04 120 L02 ZOOM Related
 ZCZC W04  30 L03 Github Related
-ZCZC W04   3 L12 Assignment #2
-ZCZC W04  15 L15 Assignment #5
-ZCZC W04  40 L16 Assignment #6
-ZCZC W04  10 L17 Assignment #7
-ZCZC W04   1 L18 Assignment #8
-ZCZC W04   3 L19 Assignment #9
+ZCZC W04   3 L12 Assignment #2: update virtual guest
+ZCZC W04  15 L15 Assignment #5: run chktoken NEWHOPE and write the result
+ZCZC W04  40 L16 Assignment #6: download W04.tar.bz2.asc and do assignment
+ZCZC W04  10 L17 Assignment #7: update mylog.txt
+ZCZC W04   1 L18 Assignment #8: update bash script
+ZCZC W04   3 L19 Assignment #9: make SHA256SUM and sign it
+ZCZC W04  30 L11 Assignment #1: read OSC10 chapter 9
+ZCZC W04 100 L14 Assignment #4: create top 10 list
+ZCZC W04  20 L13 Assignment #3: update myrank.txt
+ZCZC W04  20 L05 GSGS Related
