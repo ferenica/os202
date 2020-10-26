@@ -49,3 +49,11 @@ ZCZC W04  30 L11 Assignment #1: read OSC10 chapter 9
 ZCZC W04 100 L14 Assignment #4: create top 10 list
 ZCZC W04  20 L13 Assignment #3: update myrank.txt
 ZCZC W04  20 L05 GSGS Related
+
+ZCZC W05 120 L02 ZOOM Related
+ZCZC W05  10 L12 Assignment #2: update virtual guest
+ZCZC W05   5 L15 Assignment #5: run chktoken 12345 and write the result
+ZCZC W05  40 L16 Assignment #6: download W05.tar.bz2.asc and do assignment
+ZCZC W05  10 L17 Assignment #7: update mylog.txt
+ZCZC W05   1 L18 Assignment #8: update bash script
+ZCZC W05   3 L19 Assignment #9: make SHA256SUM and sign it
