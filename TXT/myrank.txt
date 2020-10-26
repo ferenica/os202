@@ -20,3 +20,7 @@ ZCZC W03 fadintan
 ZCZC W03 fahdikrie
 ZCZC W03 haskucy
 
+# Week 04
+ZCZC W04 bonarws
+ZCZC W04 gpersable
+ZCZC W04 fadintan
