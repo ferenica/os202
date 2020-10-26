@@ -60,4 +60,6 @@ ZCZC W05   3 L19 Assignment #9
 ZCZC W05  60 L11 Assignment #1
 ZCZC W05  20 L13 Assignment #3
 ZCZC W05  30 L05 GSGS Related : all about my top 10
+ZCZC W05 100 L14 Assignment #4
+ZCZC W05   5 L17 Assignment #7 : update mylog.txt again
 
