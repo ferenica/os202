@@ -51,9 +51,13 @@ ZCZC W04  20 L13 Assignment #3: update myrank.txt
 ZCZC W04  20 L05 GSGS Related
 
 ZCZC W05 120 L02 ZOOM Related
-ZCZC W05  10 L12 Assignment #2: update virtual guest
-ZCZC W05   5 L15 Assignment #5: run chktoken 12345 and write the result
-ZCZC W05  40 L16 Assignment #6: download W05.tar.bz2.asc and do assignment
-ZCZC W05  10 L17 Assignment #7: update mylog.txt
-ZCZC W05   1 L18 Assignment #8: update bash script
-ZCZC W05   3 L19 Assignment #9: make SHA256SUM and sign it
+ZCZC W05  10 L12 Assignment #2
+ZCZC W05   5 L15 Assignment #5
+ZCZC W05  40 L16 Assignment #6
+ZCZC W05  10 L17 Assignment #7
+ZCZC W05   1 L18 Assignment #8
+ZCZC W05   3 L19 Assignment #9
+ZCZC W05  60 L11 Assignment #1
+ZCZC W05  20 L13 Assignment #3
+ZCZC W05  30 L05 GSGS Related : all about my top 10
+
