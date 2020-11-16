@@ -24,3 +24,8 @@ ZCZC W03 haskucy
 ZCZC W04 bonarws
 ZCZC W04 gpersable
 ZCZC W04 fadintan
+
+# Week 05
+ZCZC W05 HugoIr
+ZCZC W05 Constantine-Kevin
+ZCZC W05 eugenebrigita
