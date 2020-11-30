@@ -103,3 +103,7 @@ ZCZC W08   5 L16 Assignment #6
 ZCZC W08  15 L17 Assignment #7
 ZCZC W08   1 L18 Assignment #8
 ZCZC W08   2 L19 Assignment #9
+ZCZC W08  90 L20 Assignment #10
+ZCZC W08  10 L21 Assignment #11
+ZCZC W08   5 L17 Assignment #7 : update mylog.txt again
+ZCZC W08   2 L19 Assignment #9 : sign files
