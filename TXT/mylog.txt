@@ -107,3 +107,15 @@ ZCZC W08  90 L20 Assignment #10
 ZCZC W08  10 L21 Assignment #11
 ZCZC W08   5 L17 Assignment #7 : update mylog.txt again
 ZCZC W08   2 L19 Assignment #9 : sign files
+
+ZCZC W09 120 L02 ZOOM Related
+ZCZC W09  40 L12 Assignment #2
+ZCZC W09  90 L15 Assignment #5
+ZCZC W09  30 L05 GSGS Related : all about my top 10
+ZCZC W09  20 L14 Assignment #4
+ZCZC W09  10 L13 Assignment #3
+ZCZC W09   1 L11 Assignment #1
+ZCZC W09   5 L16 Assignment #6
+ZCZC W09  15 L17 Assignment #7
+ZCZC W09   1 L18 Assignment #8
+ZCZC W09   3 L19 Assignment #9
